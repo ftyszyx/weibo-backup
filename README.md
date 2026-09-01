@@ -33,13 +33,18 @@ WeiboVault 不是通用爬虫框架，它更适合个人内容归档、账号迁
 
 ## 软件截图
 
+### 微博预览页面
 ![WeiboVault 桌面端备份浏览](assets/main2.png)
 
+### html评论导出效果
 ![WeiboVault html评论导出效果](assets/comments.png)
 
+### html分享导出效果
 ![WeiboVault 分享导出效果](assets/share.png)
 
+### 导出效果在线预览
 [导出效果在线预览](https://weibovault.bytefuse.cn/output_htmo_demo/index.html)
+
 ## 推荐使用流程
 
 1. 打开官网下载安装 WeiboVault 桌面客户端。
